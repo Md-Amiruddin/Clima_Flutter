@@ -2,9 +2,9 @@
 A weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).
 
 ## Preview
-<p align="center">
-  <img src="https://github.com/Md-Amiruddin/Clima_Flutter/blob/main/Landing_page_media/Clima_preview.gif"  width="270" height="600"/>
-</p>
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/87572877/220147712-f0b73b35-9269-4dd2-b80e-f301dd75c1d8.mp4"/>
+</div>
 
 ## Work
 <ul>
